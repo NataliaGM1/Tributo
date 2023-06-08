@@ -1,0 +1,40 @@
+
+.achievements-section {
+    padding: 50px 0;
+    background-color: #f2f2f2;
+  }
+  
+  .section-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .section-title {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .achievements-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .achievements-list li {
+    width: 400px;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .achievements-list img {
+    width: 397px;
+    height: 554px;
+    margin-bottom: 10px;
+  }
+  
+  .achievements-list p {
+    font-size: 18px;
+    color: #333;
+  }
