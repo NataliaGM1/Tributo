@@ -11,6 +11,8 @@
 
   .biography-section {
     font-size: 25px;
+    margin-bottom: 50px;
+    margin-top: 50px;
   }
   
   .highlighted-quotes {
@@ -20,7 +22,8 @@
   
   .highlighted-quotes p {
     font-style: italic;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
+    
   }
   .bio-description {
     text-align: center;
